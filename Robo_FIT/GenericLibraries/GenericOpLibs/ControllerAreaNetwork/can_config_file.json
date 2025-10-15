@@ -1,0 +1,48 @@
+{
+  "_comment": "The CAN logger file should be in .csv, .log and .asc format.Please remove the second set of channel json details for single channel device",
+  "busType": "vector",
+  "appName": "CANalyzer",
+  "canTraceEnable": "False",
+  "canIntervalEnable": "False",
+  "isSendCanMasterSignal": "False",
+  "canInputFileName": "CAN_Input_Excel.xlsx",
+  "channels": [
+{
+        "channelName": "single",
+        "channel": "0",
+        "bitRate": "500000",
+        "canTraceFile": "can_trace.asc",
+        "canDbcFile": "CAN_CV9.dbc"
+},{
+        "channelName": "dual",
+        "channel": "1",
+        "bitRate": "500000",
+        "canTraceFile": "can_trace_ch2.asc",
+        "canDbcFile": "20230403_SU2ib_PE_CCANv0.6_v1"
+ }
+  ],
+  "uds": {
+    "reqId": "0x18DA17E0",
+    "resId": "0x18DAE017",
+    "addressing_mode": "Normal_29bits",
+    "config": {
+      "standard_version":2020,
+      "request_timeout": 5,
+      "p2_timeout": 150,
+      "p2_star_timeout": 2000,
+      "use_server_timing": false
+    },
+    "isotp_params": {
+      "stmin": 20,
+      "blocksize": 0,
+      "wftmax": 5,
+      "tx_data_length": 8,
+      "tx_data_min_length": 0,
+      "tx_padding": 0,
+      "rx_flowcontrol_timeout": 1000,
+      "rx_consecutive_frame_timeout": 10000,
+      "squash_stmin_requirement": false,
+      "max_frame_size": 4095
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "baudRate": "9600",
+  "deviceId": "A90B31LTA",
+  "deviceName": "ZILOGIC",
+  "port": [
+    {
+      "portNumber": "1",
+      "cntDeviceName": ""
+    },
+    {
+      "portNumber": "2",
+      "cntDeviceName": "ignition"
+    },
+    {
+      "portNumber": "3",
+      "cntDeviceName": "acc"
+    },
+    {
+      "portNumber": "4",
+      "cntDeviceName": ""
+    }
+  ]
+}

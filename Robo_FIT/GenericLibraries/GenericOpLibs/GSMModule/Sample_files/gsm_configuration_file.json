@@ -1,0 +1,10 @@
+{
+  "recipient_no" : "+918219113329",
+  "message" : "This message send by GSM Module",
+  "device_info" : {
+    "1" : "FTDI_US232R_FTGTPC9L",
+    "2" : "FTDI_US232R_FTEPRVVL"
+  },
+  "baudrate" : "9600",
+  "mode" : ["SENDMESG", "MAKECALL", "ENDCALL", "REJECTCALL", "ANSCALL"]
+}

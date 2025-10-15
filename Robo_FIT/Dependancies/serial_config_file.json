@@ -1,0 +1,22 @@
+{
+  "serialOne" : {
+    "name" : "qnx",
+    "id" : "AC01TLTYA",
+    "baudrate" : "115200"
+  },
+  "serialTwo" : {
+    "name" : "",
+    "id" : "",
+    "baudrate" : ""
+  },
+    "serialThree" : {
+      "name" : "",
+      "id" : "",
+      "baudrate" : ""
+  },
+  "serialFour" : {
+      "name" : "",
+      "id" : "",
+      "baudrate" : ""
+  }
+}

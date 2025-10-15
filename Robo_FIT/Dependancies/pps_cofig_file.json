@@ -1,0 +1,8 @@
+{
+    "baudRate": "9600",
+    "deviceName": "Tenma",
+    "deviceId": "002806D30240",
+    "maxVoltage":"20.00",
+    "maxCurrent":"5.00",
+    "normalVoltage": "12.00"
+}

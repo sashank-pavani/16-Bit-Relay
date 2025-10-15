@@ -1,0 +1,9 @@
+{
+  "brokerAddress" : "13.126.92.225",
+  "port" : "1883",
+  "userId" : "user1",
+  "userPassword": "itrams",
+  "vinNumber": "99999999999999999",
+  "dinNumber": "864506032741101",
+  "inputExcel": "Project_W601/env/TCUInputExcel/TCU_Input_Excel.xlsx"
+}

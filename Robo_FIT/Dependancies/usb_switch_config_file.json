@@ -1,0 +1,44 @@
+{
+    "baudRate" : "9600",
+    "deviceId" : "A50285BIA",
+    "deviceName": "ZILOGIC",
+    "devices" :
+    [
+        {
+            "cntDeviceName": "adbDevice",
+            "portNumber": "0"
+        },
+        {
+            "cntDeviceName": "usbSongs",
+            "portNumber": "2"
+        },
+        {
+            "cntDeviceName": "androidAuto",
+            "portNumber": "4"
+        },
+        {
+            "cntDeviceName": "carPlay",
+            "portNumber": "5"
+        },
+        {
+            "cntDeviceName": "ipod",
+            "portNumber": "3"
+        },
+        {
+            "cntDeviceName": "ipod",
+            "portNumber": "44"
+        },
+        {
+            "cntDeviceName": "usbDeviceOne",
+            "portNumber": "55"
+        },
+        {
+            "cntDeviceName": "usbDeviceTwo",
+            "portNumber": "7"
+        },
+        {
+            "cntDeviceName": "usbDeviceThree",
+            "portNumber": "755"
+        }
+     ]
+}

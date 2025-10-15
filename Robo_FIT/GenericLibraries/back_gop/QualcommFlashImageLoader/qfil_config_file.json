@@ -1,0 +1,8 @@
+{
+  "qfilLogsFileName": "Qfil_Flashing_Logs.log",
+  "_comment": "Below mention attributes contains tha path with file name",
+  "qfilExePath": "C:\\Program Files (x86)\\Qualcomm\\QPST\\bin\\QFil.exe",
+  "browseFilePath": "install\\images\\boot_8155\\boot_images\\QcomPkg\\SDMPkg\\855\\Bin\\AU\\RELEASE\\prog_firehose_ddr.elf",
+  "loadContentPath": "install\\images\\contents.xml",
+  "provisionXmlPath": "install\\images\\common\\config\\8155\\ufs\\provision\\provision_default.xml"
+}

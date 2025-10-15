@@ -1,0 +1,60 @@
+{
+  "androidId": "152f68fc",
+  "performanceCommands": {
+      "top": {
+        "cmd": "top -b -n 1",
+        "description": "This Command is used to take android top data",
+        "timeinterval": "5.0"
+      },
+      "meminfo": {
+        "cmd": "dumpsys meminfo",
+        "description": "This Command is used to take android meminfo data",
+        "timeinterval": "60.0"
+      },
+     "procrank": {
+        "cmd": "procrank",
+        "description": "This Command is used to take android package wise procarnk data",
+        "timeinterval": "40.0"
+      },
+    "free": {
+        "cmd": "free -h",
+        "description": "This Command is used to take android free -h data",
+        "timeinterval": "45.0"
+      },
+    "prostats": {
+        "cmd": "dumpsys procstats --current",
+        "description": "This Command is used to take android prostats data",
+        "timeinterval": "30.0"
+      },
+    "adbUFS": {
+        "cmd": "df -k",
+        "description": "This Command is used to take android ufs data",
+        "timeinterval": "60.0"
+      },
+    "adbcpuinfo": {
+        "cmd": "dumpsys cpuinfo",
+        "description": "This Command is used to take android cpu info data",
+        "timeinterval": "60.0"
+      },
+    "qnxTop": {
+        "cmd": "top -i  1 -z 40",
+        "description": "This Command is used to take qnx top data",
+        "timeinterval": "5.0"
+      },
+    "showmemA": {
+        "cmd": "showmem -a",
+        "description": "This Command is used to take qnx showmem - a means qnx package wise data",
+        "timeinterval": "31.0"
+      },
+    "showmemS": {
+        "cmd": "showmem -s",
+        "description": "This Command is used to take qnx showmem summary data",
+        "timeinterval": "61.0"
+      },
+    "qnxUFS": {
+        "cmd": "df -k",
+        "description": "This Command is used to take qnx ufs data",
+        "timeinterval": "31.0"
+      }
+  }
+}

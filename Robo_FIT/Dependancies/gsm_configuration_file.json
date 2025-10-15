@@ -1,0 +1,21 @@
+{
+    "recipient_no" : "",
+    "message" : "",
+    "deviceName":"",
+    "deviceInfo" : [
+        {
+            "deviceNumber": "",
+            "deviceId":""
+        },
+        {
+            "deviceNumber": "",
+            "deviceId":""
+        },
+        {
+            "deviceNumber": "",
+            "deviceId":""
+        }
+    ],
+    "baudrate" : "9600",
+    "mode" : ["SENDMESG", "MAKECALL", "ENDCALL", "REJECTCALL", "ANSCALL"]
+  }

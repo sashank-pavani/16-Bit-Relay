@@ -1,0 +1,24 @@
+{
+  "adbDeviceId": "emulator-5554",
+  "swcKeyCodes": {
+    "volumeUp": "24",
+    "volumeDown": "25",
+    "volumeMute": "91",
+    "mediaNext": "87",
+    "mediaPrevious": "88",
+    "mediaPause": "127",
+    "mediaPlay": "126",
+    "up": "19",
+    "down": "20",
+    "left": "21",
+    "right": "22",
+    "ok": "23",
+    "setting": "176",
+    "call": "5",
+    "media": "400",
+    "phone": "401",
+    "favorite": "402",
+    "source": "403",
+    "back": "4"
+  }
+}

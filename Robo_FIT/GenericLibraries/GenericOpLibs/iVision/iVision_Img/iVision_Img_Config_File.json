@@ -1,0 +1,21 @@
+{
+    "paths": {
+        "ivision_base_folder": "iVision",
+        "ivision_image_subfolder": "iVision_InputImg",
+        "ivision_result_subfolder": "iVision_ResultantImg"
+    },
+    "Paths": {
+        "excel_file_path": "C:\\Vision_library\\Telltale_ROI_Pattern\\HMI_Definition.xlsx",
+        "images_directory": "C:\\Vision_library\\Telltale_ROI_Pattern"
+    },
+    "Pattern_matching_threshold": "0.5",
+    "Required_black_bg": "True",
+
+    "Blinking_rate_verification_parameters": {
+        "buffer_path": "C:\\iVision_RoboFIT\\CRE\\Libraries\\ExternalFiles\\InputFiles\\vision_buffere_96",
+        "excel_path": "C:\\iVision_RoboFIT\\CRE\\Libraries\\ExternalFiles\\InputFiles\\Initial.xlsx",
+        "update_file_path": "C:\\iVision_RoboFIT\\CRE\\Libraries\\ExternalFiles\\InputFiles\\Final_file.xlsx",
+        "template_path": "C:\\iVision_RoboFIT\\CRE\\Libraries\\ExternalFiles\\InputFiles\\Test_folder\\Template.JPG",
+        "Input_Images_Required": "True"
+    }
+}

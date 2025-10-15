@@ -1,0 +1,9 @@
+{
+  "brokerAddress" : "13.126.92.225",
+  "port" : "1883",
+  "userId" : "user1",
+  "userPassword": "itrams",
+  "vinNumber": "MA1NE4YH8M6B55024",
+  "dinNumber": "864506032741101",
+  "inputExcel": "CRE\\Libraries\\ExternalFiles\\InputFiles\\TCU_Input_Excel.xlsx"
+}

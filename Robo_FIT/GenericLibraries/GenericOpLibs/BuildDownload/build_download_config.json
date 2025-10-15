@@ -1,0 +1,38 @@
+{
+  "jfrogUsername": "",
+  "jfrogPassword": "",
+  "buildConfigurations": [
+    {
+      "buildVariant": "",
+      "buildUrl": "",
+      "buildFolderRegex": "",
+      "buildNameRegex": "",
+      "buildExtension": ""
+    },
+    {
+      "buildVariant": "",
+      "buildUrl": "",
+      "buildFolderRegex": "",
+      "buildNameRegex": ""
+    },
+    {
+      "buildVariant": "",
+      "buildUrl": "",
+      "buildFolderRegex": "",
+      "buildNameRegex": ""
+    },
+    {
+      "buildVariant": "",
+      "buildUrl": "",
+      "buildFolderRegex": "",
+      "buildNameRegex": ""
+    },
+    {
+      "buildVariant": "",
+      "buildUrl": "",
+      "buildFolderRegex": "",
+      "buildNameRegex": ""
+    }
+
+  ]
+}

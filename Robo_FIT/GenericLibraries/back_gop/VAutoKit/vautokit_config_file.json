@@ -1,0 +1,85 @@
+{
+    "device": "vAutokit",
+    "comPort": "COM4",
+    "canSpeed": "512000",
+    "vautocanTraceFileName": "vcan_trace.asc",
+    "relay": [
+    {
+      "pinNumber": 1,
+      "relayName": "ign"
+    },
+    {
+      "pinNumber": 0,
+      "relayName": "bat"
+    },
+    {
+      "pinNumber": 2,
+      "relayName": "push"
+    },
+    {
+      "pinNumber": 3,
+      "relayName": "relay"
+    },
+	{
+      "pinNumber": 0,
+      "relayName": "LFW"
+    },
+	{
+      "pinNumber": 1,
+      "relayName": "paddon"
+    },
+    {
+      "pinNumber":2,
+      "relayName": "up"
+    },
+    {
+      "pinNumber": 3,
+      "relayName": "ok"
+    },
+    {
+      "pinNumber": 4,
+      "relayName": "lfa"
+    },
+    {
+      "pinNumber": 5,
+      "relayName": "left"
+    },
+	{
+      "pinNumber": 6,
+      "relayName": "sink"
+    },
+	{
+      "pinNumber": 7,
+      "relayName": "GF"
+    },
+	{
+      "pinNumber": 8,
+      "relayName": "3//8"
+    },
+	{
+      "pinNumber": 9,
+      "relayName": "GE"
+    },
+    {
+      "pinNumber":10,	
+      "relayName": "highbeam"
+    },
+    {
+      "pinNumber": 11,
+      "relayName": "down"
+    },
+    {
+      "pinNumber": 13,
+      "relayName": "right"
+    },
+    {
+      "pinNumber":14,
+      "relayName": "push"
+    },
+	{
+      "pinNumber":15	,
+      "relayName": "7//8"
+    }
+	
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "__comment": "Provide the ADB device id which is connected to the system. either USB ADB ID or Network IP address ID",
+  "adbIdUsb": "192.168.1.3:5555",
+  "adbIdNetwork": "192.168.1.3:5555",
+  "adbDeviceName": "msmnile_gvmq",
+  "enabled" : "True",
+  "type" : "ALLLOGS",
+  "systemLogPath" : "data/vstgloballogcontrol/"
+}

@@ -1,0 +1,18 @@
+{
+    "ref_img_1": {
+        "reference_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/Single_Gauge/1.png",
+        "boundary_line_color": [0,255,0]
+    },
+    "ref_img_2": {
+        "reference_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/Single_Gauge/11.png",
+        "boundary_line_color": [0,255,0]
+    },
+    "ref_img_3": {
+        "reference_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/Single_Gauge/15.png",
+        "boundary_line_color": [0,255,0]
+    },
+    "ref_img_4": {
+        "reference_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/Single_Gauge/38.png",
+        "boundary_line_color": [0,255,0]
+    }
+}

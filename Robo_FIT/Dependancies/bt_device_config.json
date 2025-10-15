@@ -1,0 +1,22 @@
+{
+   "bt_phone_one" : {
+        "device_id" : "0d1caed902b3cce8",
+        "device_name" : "0d1caed902b3cce8",
+        "bt_phone_one_port" : "4724"
+    },
+    "bt_phone_two" : {
+        "device_id" : "932AY05J3M",
+        "device_name" : "932AY05J3M",
+        "bt_phone_two_port" : "4725"
+    },
+    "bt_phone_three" : {
+        "device_id" : "",
+        "device_name" : "",
+        "bt_phone_three_port" : "4726"
+    },
+    "bt_phone_four" : {
+        "device_id" : "",
+        "device_name" : "",
+        "bt_phone_four_port" : "4727"
+    }
+}

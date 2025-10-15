@@ -1,0 +1,17 @@
+{
+    "ref_img_bar1": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/BarPercentage/Ref_img.png",
+        "fg_color": [0, 0, 255],
+        "bg_color": [255,255,255]
+    },
+    "ref_img_bar2": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/BarPercentage/Ref_img.png",
+        "fg_color": [0, 0, 255],
+        "bg_color": [255,255,255]
+    },
+    "ref_img_bar3": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/BarPercentage/Ref_img.png",
+        "fg_color": [255, 0, 0],
+        "bg_color": [255,255,255]
+    }
+}

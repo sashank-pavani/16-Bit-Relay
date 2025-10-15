@@ -1,0 +1,74 @@
+{
+  "serialPort": "COM17",
+  "cmdInfo": {
+    "cmd": "vmf_sender",
+    "arguments": {
+      "messageGroup": {
+        "description": "message group (-g)",
+        "value": "50",
+        "default": "10"
+      },
+      "event": {
+        "description": "Event to be generate (-e)",
+        "value": "0",
+        "default": "20"
+      },
+      "messageCount": {
+        "description": "Message count (-c)",
+        "value": "1",
+        "default": "10"
+      },
+      "messageDelay": {
+        "description": "message delay in ms (-d)",
+        "value": "0",
+        "default": "100"
+      },
+      "wait": {
+        "description": "wait before sending in seconds (-w)",
+        "value": "0",
+        "default": "0"
+      }
+    }
+  },
+  "pressInfo": {
+    "short": {
+      "value": "1",
+      "waitTime": "0"
+    },
+    "long": {
+      "value": "2",
+      "waitTime": "3000"
+    },
+    "stuck": {
+      "value": "3",
+      "waitTime": "130000"
+    }
+  },
+  "pressed": "01",
+  "released": "00",
+  "buttonsId": {
+    "ok": "01",
+    "up": "02",
+    "down": "03",
+    "back": "04",
+    "menu": "05",
+    "phone": "06",
+    "hud": "07",
+    "right": "08",
+    "left": "09",
+    "home": "0A",
+    "trip": "0B",
+    "playpause": "0C",
+    "volumedown": "0D",
+    "volumeup": "0E",
+    "mediabwd": "0F",
+    "mediafwd": "10",
+    "vr": "11",
+    "turnleft": "12",
+    "turnright": "13",
+    "ridemode": "14",
+    "cceetdec": "15",
+    "foglamps": "16",
+    "last": "17"
+  }
+}

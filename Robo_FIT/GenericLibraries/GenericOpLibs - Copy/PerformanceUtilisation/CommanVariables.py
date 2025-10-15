@@ -1,0 +1,10 @@
+""" This file just define some Performance related Global variable"""
+
+MEMORY = "Memory"
+ANDROID_MEMORY = "AndroidMemory"
+QNX_MEMORY = "QnxMemory"
+CPU = "CPU"
+ANDROID_CPUINFO = "AndroidCpuInfo"
+ANROID_CPU = "AndroidCpu"
+QNX_CPU = "QnxCpu"
+SYSTRACE = "Systrace"

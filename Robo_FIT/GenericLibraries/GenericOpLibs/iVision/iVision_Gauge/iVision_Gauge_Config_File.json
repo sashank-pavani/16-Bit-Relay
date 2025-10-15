@@ -1,0 +1,28 @@
+{
+  "IvisionURLs": {
+    "detect_gauges_generalised": "http://10.185.16.203:5000/gauges/generalized_detect",
+    "detect_gauges_generalised_debug": "http://10.185.16.203:5000/gauges/generalized_debug_detect"
+  },
+  "OEM": "GM",
+  "Gauges": [
+    {
+      "Gauge_type": "FUELLEVEL",
+      "Gauge_shape": "CIRCLE_GAUGE",
+      "Min_value": 0,
+      "Max_value": 240
+    },
+    {
+      "Gauge_type": "RPM",
+      "Gauge_shape": "CIRCLE_GAUGE",
+      "Min_value": 0,
+      "Max_value": 240
+    },
+    {
+      "Gauge_type": "KMH",
+      "Gauge_shape": "ARC_GAUGE",
+      "Min_value": 0,
+      "Max_value": 1
+    }
+  ]
+}
+

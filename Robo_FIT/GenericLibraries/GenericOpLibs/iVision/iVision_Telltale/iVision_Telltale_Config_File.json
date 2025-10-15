@@ -1,0 +1,53 @@
+{
+  "IvisionURLs": {
+    "detect_telltale": "http://10.185.16.203:5000/icons/detect",
+    "detect_telltale_debug": "http://10.185.16.203:5000/icons/debug_detect",
+    "business_critical_detect": "http://10.185.16.203:5000/icons/business_critical_detect",
+    "business_critical_debug_detect": "http://10.185.16.203:5000/icons/business_critical_debug_detect"
+  },
+  "Paths": {
+        "excel_file_path": "HMI object sheet file path"
+    },
+  "OEM": "GM",
+  "Parameters_for_ROI_based_verification":
+  {
+    "hmi_overlap_high_threshold":15,
+    "check_business_critical_area":"true",
+    "custom_centroids": "-",
+    "use_template_matching": "false",
+    "advanced_color_detection":"true",
+    "hmi_overlap_low_threshold":3,
+    "custom_centroids_type":"additional",
+    "num_expected_colors":"-1"
+  },
+  "Telltales": {
+    "ENGINE_COOLANT_TEMPERATURE": {
+      "ON": "#999a92",
+      "OFF": "#7f8981"
+    },
+    "ELECTRICAL_CHARGING": {
+      "ON": "#b4b8aa",
+      "OFF": "#7f8981"
+    },
+    "ENGINE_MALFUNCTION": {
+      "ON": "#5c4f2c",
+      "OFF": "#7890"
+    },
+    "ADAPTIVE_CRUISE_CONTROL": {
+      "ON": "#c8c9ca",
+      "OFF": "#7f8981"
+    },
+    "FRONT_FOG_LAMP": {
+      "ON": "#772590",
+      "OFF": "#7f8981"
+    },
+    "AT_FAIL": {
+      "ON": "#f4f2f0",
+      "OFF": "#7f8981"
+    },
+    "ADAS": {
+      "ON": "#f4f2f0",
+      "OFF": "#7f8981"
+    }
+  }
+}

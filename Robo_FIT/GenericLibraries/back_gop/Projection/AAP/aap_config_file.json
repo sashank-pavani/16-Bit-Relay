@@ -1,0 +1,9 @@
+{
+  "DeviceAssetPath" : "External_Interfaces/AAP_CP/AAP/res/Pixel",
+  "Home" : "Clock_App.png",
+  "Phone" : "Phone.png",
+  "Music" : "Music.png",
+  "Maps" : "Maps.png",
+  "Message" : "Message.png",
+  "Exit" : "Exit.png"
+}

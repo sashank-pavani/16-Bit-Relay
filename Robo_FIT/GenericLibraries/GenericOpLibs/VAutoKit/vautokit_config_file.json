@@ -1,0 +1,90 @@
+{
+    "device": "vAutokit",
+    "comPort": "COM6",
+    "canSpeed": "512000",
+    "vautocanTraceFileName": "vcan_trace.asc",
+    "relay": [
+    {
+      "pinNumber": 0,
+      "relayName": "bat"
+    },
+    {
+      "pinNumber": 1,
+      "relayName": "ign"
+    },
+    {
+      "pinNumber": 2,
+      "relayName": "boot1"
+    },
+    {
+      "pinNumber": 3,
+      "relayName": "boot2"
+    },
+	{
+      "pinNumber": 0,
+      "relayName": "right"
+    },
+	{
+      "pinNumber": 1,
+      "relayName": "left"
+    },
+    {
+      "pinNumber": 2,
+      "relayName": "upjoystick"
+    },
+    {
+      "pinNumber": 3,
+      "relayName": "push"
+    },
+    {
+      "pinNumber": 4,
+      "relayName": "up"
+    },
+    {
+      "pinNumber": 5,
+      "relayName": "downjoystick"
+    },
+	{
+      "pinNumber": 6,
+      "relayName": "return"
+    },
+	{
+      "pinNumber": 7,
+      "relayName": "oddsw"
+    },
+	{
+      "pinNumber": 8,
+      "relayName": "hudsw"
+    },
+	{
+      "pinNumber": 9,
+      "relayName": "Oilpressure"
+    },
+    {
+      "pinNumber":10,
+      "relayName": "fuellid"
+    },
+    {
+      "pinNumber": 11,
+      "relayName": "turnright"
+    },
+	{
+      "pinNumber": 12,
+      "relayName": "tl"
+    },
+    {
+      "pinNumber": 13,
+      "relayName": "rheostatdown"
+    },
+    {
+      "pinNumber":14,
+      "relayName": "rheostatup"
+    },
+	{
+      "pinNumber":15,
+      "relayName": "cxpi"
+    }
+
+    ]
+}
+

@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "cvision_base_folder": "cVision",
+        "cvision_image_subfolder": "cVision_CamImg",
+        "cvision_result_subfolder": "cVision_Result"
+    },
+    "manual_fps": "Yes",
+    "fps": 30
+}

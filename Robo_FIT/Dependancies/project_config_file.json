@@ -1,0 +1,44 @@
+{
+  "jenkinsConfigurations": {
+    "username": "",
+    "password": "",
+    "buildBaselineUrl": ""
+  },
+
+  "projectHardwareId": {
+    "deviceUsbId": "f5bd8906",
+    "deviceNetworkId": "f5bd8906",
+    "deviceName": "f5bd8906"
+  },
+  "extPhoneOne": {
+    "deviceId": "13291JEC205912",
+    "deviceName": "Pixel 4A"
+  },
+  "extPhoneTwo": {
+    "deviceId": "",
+    "deviceName": ""
+  },
+  "extPhoneThree": {
+    "deviceId": "",
+    "deviceName": ""
+  },
+  "extPhoneFour": {
+    "deviceId": "",
+    "deviceName": ""
+  },
+  "projectInfo": {
+    "projectName": "HD",
+    "buildInfoCommand": "cat /etc/release_info",
+    "bootKpiCommand": "cat /sys/kernel/boot_kpi/kpi_values",
+    "displaySize": "1920*720"
+  },
+  "xrayImporter": {
+    "zscalerCertificatePath": "C:\\Users\\vsharm11\\Certificate\\ZscalerRootCertificate-2048-SHA256.crt",
+    "projectJiraKey": "JLRCM29298",
+    "isImportExecutionRecord": true,
+    "clientInfo": {
+      "client_id": "DE5FF825DA3443E5A757883FDF4B9D3E",
+      "client_secret": "3b4fd059af66358ed22fd8853df55edb80a5ee4f32289ca08aac7c71c716cd35"
+    },
+    "tags": "Manual_Test"
+  }

@@ -1,0 +1,13 @@
+{
+
+  "currentHigh": 0.3,
+
+  "currentLow": 0.19,
+
+  "imageNameOn": "wake_cap.jpg",
+
+  "imageNameOff": "sleep_cap.jpg",
+
+  "croppedImagePath":"PRNDS/PRNDS.bmp"
+
+}

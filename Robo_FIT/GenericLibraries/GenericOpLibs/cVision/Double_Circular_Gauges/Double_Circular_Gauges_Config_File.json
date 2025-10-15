@@ -1,0 +1,14 @@
+{
+    "ref_img_1": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/Double_Gauges/7.png",
+        "boundary_line_color": [0,255,0]
+    },
+    "ref_img_2": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/BarPercentage/Ref_img.png",
+        "boundary_line_color": [0,255,0]
+    },
+    "ref_img_3": {
+        "ref_image_path": "C:/Robo_FIT/Robo__fit/CRE/Libraries/ExternalFiles/InputFiles/cVision/BarPercentage/Ref_img.png",
+        "boundary_line_color": [0,255,0]
+    }
+}
